@@ -1,13 +1,13 @@
-#INTRODUCTION
-----------------------------------------------------------------------------------------------
+INTRODUCTION
+----------------------------------------------------------------------------------
 
 In the ever-evolving landscape of digital communication and computation, the emergence of quantum computing and its intersection with cryptography herald a profound transformation. 
 Quantum computing, rooted in the counterintuitive principles of quantum mechanics, promises to transcend the limitations of classical computation, while cryptography, the art of secure communication,
 stands as a bulwark against unauthorized access and manipulation of information. This introduction sets the stage for an exploration of these two interconnected fields, delving into their foundational principles,
 evolving technologies, and the intricate dance between security and vulnerability in the quantum era.
 
-#QUANTUM-COMPUTING
-+-------------+----------------+------------+-----------------
+QUANTUM-COMPUTING
++-------------+----------------+------------+-----------------+
 
 Quantum computing, with its bedrock in the quantum mechanical phenomena of superposition and entanglement, offers a tantalizing glimpse into a realm where computation occurs at a scale and speed previously unimaginable.
 Unlike classical computers that manipulate bits in binary form, quantum computers leverage quantum bits or qubits, which can exist in multiple states simultaneously due to superposition. 
